@@ -1,6 +1,6 @@
-<div class="bg-animate">
-  <canvas id="canvas">
-  <div class="container mx-auto">
+<div>
+  <canvas id="canvas"></canvas>
+  <div class="container xl mx-auto">
 @include('sections.header')
 
   <main id="main" class="main">
@@ -8,8 +8,6 @@
   </main>
 
 
-
 @include('sections.footer')
   </div>
-  </canvas>
 </div>
