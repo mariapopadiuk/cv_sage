@@ -1,2 +1,2 @@
-@php(the_content())
+
 

@@ -1,5 +1,5 @@
-<article @php(post_class())>
-  <header>
-    
-  </header>
-</article>
+
+  
+    <h1>HELLO</h1>
+  </div>
+</div>

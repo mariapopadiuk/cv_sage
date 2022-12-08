@@ -1,7 +1,6 @@
-<a class="sr-only focus:not-sr-only" href="#main">
-  {{ __('Skip to content') }}
-</a>
-
+<div class="bg-animate">
+  <canvas id="canvas">
+  <div class="container mx-auto">
 @include('sections.header')
 
   <main id="main" class="main">
@@ -11,3 +10,6 @@
 
 
 @include('sections.footer')
+  </div>
+  </canvas>
+</div>
