@@ -1,7 +1,6 @@
 <div>
   <canvas id="canvas"></canvas>
-  <div class="container xl mx-auto">
-@include('sections.header')
+  <div class="container mx-auto">
 
   <main id="main" class="main">
     @yield('content')
