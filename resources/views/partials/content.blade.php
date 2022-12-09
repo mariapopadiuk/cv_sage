@@ -1,28 +1,28 @@
-<div class="wrapper p-5 flex">
+<div class="wrapper p-5 md:flex justify-between ">
 
-  <section class="section-left w-1/3 mr-5">
-    <div class="contect-section-left text-center bg-[#161820] rounded-lg shadow-lg shadow-green-500/40  max-w-xs  fixed z-0 overflow-x-hidden">
+  <section class=" section-left md:w-1/3 md:mr-5 flex justify-center">
+    <div class="mb-5 contect-section-left text-center bg-[#161820] rounded-lg shadow-lg shadow-green-500/40 xl:max-w-xs md:max-w-[256px] xs:max-w-xs 2xl:max-w-md md:fixed z-0">
       <div class="name-content text-white">
-        <img class="rounded-full p-8 mx-auto mb-8" src="../../images/IMG4628.jpg" alt="my-foto" />
-        <h1 class="font-bold text-3xl">Maria Popaiuk</h1>
-        <h3 class="font-extralight text-xl mb-10 text-[#85889C]">Web Developer</h3>
+        <img class="rounded-full w-1/2 mx-auto my-5" src="../../images/IMG4628.jpg" alt="my-foto" />
+        <h1 class="font-bold text-2xl">Maria Popaiuk</h1>
+        <h3 class="font-extralight text-xl mb-8 text-[#85889C]">Web Developer</h3>
       </div>
-      <div class="social-content mb-20">
-        <ul class="text-white text-xl">
-          <li><a href="#"><i class="fa-solid fa-phone text-[#029D36]"></i> + 351 934 113 417</a></li>
-          <li><a href="#"><i class="fa-regular fa-envelope text-[#029D36]"></i> mpopadiuk13@gmail.com</a></li>
-          <li><i class="fa-regular fa-user text-[#029D36]"></i> Ukranian</li>
-          <li class="mb-10"><i class="fa-regular fa-calendar text-[#029D36]"></i> 03/03/1995</li>
+      <div class="social-content mb-5">
+        <ul class="text-white text-medium">
+          <li><a href="#"><i class="fa-solid fa-phone text-sm text-[#029D36]"></i> + 351 934 113 417</a></li>
+          <li><a href="#"><i class="fa-regular fa-envelope text-sm text-[#029D36]"></i> mpopadiuk13@gmail.com</a></li>
+          <li><i class="fa-regular fa-user text-sm  text-[#029D36]"></i> Ukranian</li>
+          <li class="mb-10"><i class="fa-regular fa-calendar text-sm text-[#029D36]"></i> 03/03/1995</li>
           <li><a href="#"><i class="fa-brands fa-instagram text-[#029D36]"></i></a> <a href="#"><i class="fa-brands fa-github text-[#029D36]"></i></a> <a href="#"><i class="fa-brands fa-linkedin text-[#029D36]"></i></a> <a href="#"><i class="fa-brands fa-500px text-[#029D36]"></i></a></li>
         </ul>
       </div>
-      <div class="btn-pdf pb-10">
-        <button class="bg-[#029D36] px-10 py-3 text-white rounded-full text-xl font-bold pointer" type="button">Downloud PDF</button>
+      <div class="btn-pdf pb-8">
+        <button class="bg-[#029D36] px-6 py-1 text-white rounded-full text-base font-medium pointer" type="button">Downloud PDF</button>
       </div>
     </div>
   </section>
 
-  <section class="section-right w-2/3">
+  <section class="section-right md:w-2/3">
 
     <div class="block-about bg-[#161820] text-white  px-7 py-5 mb-5 rounded-lg">
       <h1 class="font-bold text-2xl mb-5 uppercase">About</h1>

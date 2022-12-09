@@ -1,5 +1,5 @@
 import { domReady } from '@roots/sage/client';
-require('@scripts/bg-animate');
+require('@scripts/bg-animate.js');
 /**
  * app.main
  */
