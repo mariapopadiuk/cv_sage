@@ -140,19 +140,69 @@
             <li>- Newsletter development</li>
             <li>- Reviewing source code created by other developers to identify bugs or vulnerabilities</li>
             <li>- Create website layout/user interface by using web development best practices</li>
-            <li>- Development of interactive WordPress Websites</li>
+            <li>- Created custom WordPress themes.</li>
+            <li>- Collaborated with the team to design new features for web application.</li>
           </ul>
         </div>
         <div class="w-1/6">
           <p class="text-[#85889C]">2022</p>
         </div>
       </div>
-
     </div>
 
+    <div class="block-skills bg-[#161820] text-white  px-7 py-5 mb-5 rounded-lg">
+      <h1 class="font-bold text-2xl mb-5 uppercase">Skills</h1>
+      <!-- <p class="text-lg tracking-wide text-[#85889C]">Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim veniam debitis esse voluptates eaque, facere eligendi nemo quasi, minus excepturi vitae voluptatem quam? Quibusdam quaerat beatae, laboriosam explicabo harum ad!</p> -->
+      <div class="wrapper-skills">
+        <div class="demo-preview">
+          <div class="progress progress-striped active">
+            <div role="progressbar progress-striped" style="width: 95%;" class="progress-bar"><span>HTML</span></div>
+          </div>
+          <div class="progress progress-striped active">
+            <div role="progressbar " style="width: 95%;" class="progress-bar progress-bar-secondary"><span>CSS</span></div>
+          </div>
+          <div class="progress progress-striped active">
+            <div role="progressbar " style="width: 80%;" class="progress-bar progress-bar-default"><span>JS</span></div>
+          </div>
+          <div class="progress progress-striped active">
+            <div role="progressbar " style="width: 70%;" class="progress-bar progress-bar-success"><span>React</span></div>
+          </div>
+          <div class="progress progress-striped active">
+            <div role="progressbar " style="width: 60%;" class="progress-bar progress-bar-info"><span>NodeJS</span></div>
+          </div>
+          <!--     <div class="progress progress-striped active">
+      <div role="progressbar " style="width: 50%;" class="progress-bar progress-bar-warning"><span>Warning</span></div>
+    </div>
+    <div class="progress progress-striped active">
+      <div role="progressbar" style="width: 40%;" class="progress-bar progress-bar-danger"><span>Danger</span></div>
+    </div> -->
+        </div>
 
-
-
+        <div class="demo-preview">
+          <div class="progress progress-striped active">
+            <div role="progressbar progress-striped" style="width: 60%;" class="progress-bar"><span>PHP</span></div>
+          </div>
+          <div class="progress progress-striped active">
+            <div role="progressbar " style="width: 70%;" class="progress-bar progress-bar-secondary"><span>Wordpress</span></div>
+          </div>
+          <div class="progress progress-striped active">
+            <div role="progressbar " style="width: 60%;" class="progress-bar progress-bar-default"><span>GIT</span></div>
+          </div>
+          <div class="progress progress-striped active">
+            <div role="progressbar " style="width: 60%;" class="progress-bar progress-bar-success"><span>MySql</span></div>
+          </div>
+          <div class="progress progress-striped active">
+            <div role="progressbar " style="width: 80%;" class="progress-bar progress-bar-info"><span>Figma</span></div>
+          </div>
+          <!--     <div class="progress progress-striped active">
+      <div role="progressbar " style="width: 50%;" class="progress-bar progress-bar-warning"><span>Warning</span></div>
+    </div>
+    <div class="progress progress-striped active">
+      <div role="progressbar" style="width: 40%;" class="progress-bar progress-bar-danger"><span>Danger</span></div>
+    </div> -->
+        </div>
+      </div>
+    </div>
 
   </section>
 
